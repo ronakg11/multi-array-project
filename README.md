@@ -1,7 +1,6 @@
-#Java Project
-> ##Base Point for Java Applications
+#Multi-Array-Project
 
-> *Project for creating Java Applications which do common tasks.*
+> *Project for creating multi array Java applications.*
 
 > **Java 7**
 
@@ -9,6 +8,6 @@
 >> * Log4j
 >> * JUnit
 
-> Java Project for SQA Boot Camp October 3.
+> Java Project for SQA Boot Camp October 3. Created on October 17, 2016.
 
 [Ronak Gavandi](https://github.com/ronakg11/)
